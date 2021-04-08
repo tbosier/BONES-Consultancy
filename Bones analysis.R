@@ -63,6 +63,8 @@ y_pred = ifelse(prob_pred > 0.5, 1, 0)
 y_pred
 
 
+# Create confusion matrix to assess
+
 
 cm = table(test_set[,15], y_pred)
 cm
