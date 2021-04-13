@@ -13,4 +13,6 @@ Another way of full improvement is to wrap all of this into python and place int
 
 I work on this when I find the time. 
 
+to do: check assumptions of MLR with plots and analysis of data points to verify normality, etc
+
 
