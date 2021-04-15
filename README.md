@@ -3,6 +3,8 @@ This depository is to show myself as a consultant for the rapper known as BONES.
 
 I used two models to see if I could ascertain anything from it. One was a multiple linear regression model, and another was a logistic regression model. The MLR model turned up nothing, but the logistic regression model saw some correlation between which song was chosen to be played and the key as well as the mode of the song. 
 
+First to do is to check assumptions of MLR to see if it's even a worthwhile endeavor (answer: it isn't, still need to check)
+
 Specifically, in the MLR, we receive no * in our coefficient summary, with a low R^2 value of 0.02574, so the MLR is not a good model to predict in the current state.
 
 In our LR model, we receive singular * on key and mode. However, in the current state, our predict model doesn't respond well as per the confusion matrix analysis.
@@ -13,6 +15,6 @@ Another way of full improvement is to wrap all of this into python and place int
 
 I work on this when I find the time. 
 
-to do: check assumptions of MLR with plots and analysis of data points to verify normality, etc
+
 
 
