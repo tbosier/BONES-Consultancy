@@ -3,7 +3,7 @@ This depository is to show myself as a consultant for the rapper known as BONES.
 
 I used two models to see if I could ascertain anything from it. One was a multiple linear regression model, and another was a logistic regression model. The MLR model turned up nothing, but the logistic regression model saw some correlation between which song was chosen to be played and the key as well as the mode of the song. 
 
-First to do is to check assumptions of MLR to see if it's even a worthwhile endeavor. After running the regressor on 'Played' (at concert), no value shows any statistical significance whatsoever. It's also probably a good idea to check normality, so we will do so using a Shapiro-Wilk test.
+First to do is to check assumptions of MLR to see if it's even a worthwhile endeavor. After running the regressor on 'Played' (at concert), no value shows any statistical significance whatsoever. We check for multi-collinearity using the caret library, via the vif() function. Everything is pretty low, so no multi-collinearity detected. It's also probably a good idea to check normality, so we will do so using a Shapiro-Wilk test.
 
 From the Shapiro-Wilk test, the following are not normally distributed values:
 
