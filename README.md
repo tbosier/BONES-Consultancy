@@ -24,7 +24,7 @@ The following are:
 
 Energy
 
-So this model isn't exactly great. It was a nice, quick check though. A better model would be some binary classifier, like Logistic Regression. 
+So this model isn't exactly great. It was a nice, quick check though. A better model would be some binary classifier, like Logistic Regression. The reason for this is that we are simply trying to see if there are other songs that should be played at his shows.
 
 Specifically, in the MLR, we receive no * in our coefficient summary, with a low R^2 value of 0.02574, so the MLR is not a good model to predict in the current state.
 
