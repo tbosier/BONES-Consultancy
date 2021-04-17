@@ -3,7 +3,28 @@ This depository is to show myself as a consultant for the rapper known as BONES.
 
 I used two models to see if I could ascertain anything from it. One was a multiple linear regression model, and another was a logistic regression model. The MLR model turned up nothing, but the logistic regression model saw some correlation between which song was chosen to be played and the key as well as the mode of the song. 
 
-First to do is to check assumptions of MLR to see if it's even a worthwhile endeavor (answer: it isn't, still need to check)
+First to do is to check assumptions of MLR to see if it's even a worthwhile endeavor. After running the regressor on 'Played' (at concert), no value shows any statistical significance whatsoever. It's also probably a good idea to check normality, so we will do so using a Shapiro-Wilk test.
+
+From the Shapiro-Wilk test, the following are not normally distributed values:
+
+mode
+danceability
+key
+loudness
+speechiness
+acousticness
+instrumentalness
+liveness
+valence
+tempo
+duration_ms
+
+
+The following are:
+
+Energy
+
+So this model isn't exactly great. It was a nice, quick check though. A better model would be some binary classifier, like Logistic Regression. 
 
 Specifically, in the MLR, we receive no * in our coefficient summary, with a low R^2 value of 0.02574, so the MLR is not a good model to predict in the current state.
 
