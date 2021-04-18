@@ -13,7 +13,7 @@ We employed Shapiro-Wilks normality test to see if any of the variables show sig
 
 We also checked for multi-collinearity and that showed no signs of such.
 
-We also checked to see if there was a linear relationship shown in any of the variables.
+We also checked to see if there was a linear relationship shown between the dependent and independent variables. (Still checking)
 
 
 
