@@ -3,6 +3,11 @@ This repository is to show myself as a consultant for the rapper known as BONES.
 
 What is the overall theme of BONES' shows? High energy interspersed with mellow songs to provide breaks for show-goers (and performers). According to Wikipedia, his genre is a mix of hip-hop, Trap Metal, Cloud Rap, and Emo Rap. In essence, this is a mix of heavy beats, metal instrumentals, atmospheric and hazy sounds, and somber lyrics. We will want to keep with this trend of high energy / low-medium energy type tunes while selecting songs for further shows. 
 
+We will employ two models to compare and contrast their results. We will use a regression model known as Multi-Linear Regression, and then we will use a classification method known as Logistic Regression. Why? After pulling in data, we go to youtube to see which songs were used at shows and denote that in our dataset. This is a binary result, which logistic regression is great at. We will need to check our assumptions for our MLR model first.
+
+![image](https://user-images.githubusercontent.com/67398409/115159234-c903cb00-a057-11eb-97bf-198828a69f90.png)
+
+
 
 
 
