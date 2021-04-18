@@ -1,5 +1,12 @@
 # BONES-Consultancy
-This depository is to show myself as a consultant for the rapper known as BONES. He has an extensive album collection in the 'dark rap' genre.
+This repository is to show myself as a consultant for the rapper known as BONES. I am tasking myself with creating statistical models to select songs for BONES' next show, with the goal of higher turnout at further shows.
+
+What is the overall theme of BONES' shows? High energy interspersed with mellow songs to provide breaks for show-goers (and performers). According to Wikipedia, his genre is a mix of hip-hop, Trap Metal, Cloud Rap, and Emo Rap. In essence, this is a mix of heavy beats, metal instrumentals, atmospheric and hazy sounds, and somber lyrics. We will want to keep with this trend of high energy / low-medium energy type tunes while selecting songs for further shows. 
+
+
+
+
+
 
 I used two models to see if I could ascertain anything from it. One was a multiple linear regression model, and another was a logistic regression model. The MLR model turned up nothing, but the logistic regression model saw some correlation between which song was chosen to be played and the key as well as the mode of the song. 
 
