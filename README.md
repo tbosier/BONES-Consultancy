@@ -7,7 +7,11 @@ We will employ two models to compare and contrast their results. We will use a r
 
 ![image](https://user-images.githubusercontent.com/67398409/115159262-eafd4d80-a057-11eb-83c3-e620fb159a52.png)
 
+So there isn't much statistical significance in the variables besides danceability, which is highly significant.
 
+We employed Shapiro-Wilks normality test to see if any of the variables show signs of a normal distribution for their errors, and only energy seems to. Re-training on just energy for a 1 variable linear regression doesn't show much significance.  
+
+We also checked for multi-collinearity and that showed no signs of such. 
 
 
 
