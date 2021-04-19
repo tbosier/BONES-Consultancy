@@ -25,14 +25,20 @@ After throwing y_pred values into a spreadsheet to assess what songs were being 
 
 ![image](https://user-images.githubusercontent.com/67398409/115180647-bd39f800-a09b-11eb-9e39-203d7b20aa88.png)
 
-So, after removing duration_ms, we get:
+So, after removing duration_ms and time_signature we get:
 
 
-![image](https://user-images.githubusercontent.com/67398409/115181286-2e2ddf80-a09d-11eb-969a-c80bcd1dfd5c.png)
-
-This tells us that danceability is extremely correlated. 
+![image](https://user-images.githubusercontent.com/67398409/115181972-b5c81e00-a09e-11eb-8aee-4dd1524f8c03.png)
 
 
+
+With these being the particular songs our better performing algorithm is recommending:
+
+
+![image](https://user-images.githubusercontent.com/67398409/115182190-2c651b80-a09f-11eb-94d7-bceb53b9b0b6.png)
+
+
+This analysis isn't complete without reviewing the songs themselves. 73rdAnnualGimbleTelathon is a misnomer, but the top 10 are solid songs to include in the next show. They achieve either the hype, or the low atmospheric beat that we were searching for. 
 
 
 The ways that I would improve these models would be to find more instances of songs that were used at his shows. Another way of full improvement is to wrap all of this into python, or all into R with Jupyter notebooks being written in R. 
