@@ -43,5 +43,9 @@ This analysis isn't complete without listening to the songs ourselves. 73rdAnnua
 
 The ways that I would improve these models would be to find more instances of songs that were used at his shows. Another way of full improvement is to wrap all of this into python, or all into R with Jupyter notebooks being written in R. 
 
+I put my favorite of the list in a spotify playlist if you're interested in checking them out. Pretty good if you need to zone in!
+
+https://open.spotify.com/playlist/2r2LhItZvq0wfd1wIxkLOd?si=17e2e3205bcc4651
+
 
 
