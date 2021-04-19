@@ -38,7 +38,7 @@ With these being the particular songs our better performing algorithm is recomme
 ![image](https://user-images.githubusercontent.com/67398409/115182190-2c651b80-a09f-11eb-94d7-bceb53b9b0b6.png)
 
 
-This analysis isn't complete without reviewing the songs themselves. 73rdAnnualGimbleTelathon is a misnomer, but the top 10 are solid songs to include in the next show. They achieve either the hype, or the low atmospheric beat that we were searching for. 
+This analysis isn't complete without listening to the songs ourselves. 73rdAnnualGimbleTelathon is a misnomer it seems, but the top 10 are solid songs to include in the next show. They achieve either the hype, or the low atmospheric beat that we were searching for. 
 
 
 The ways that I would improve these models would be to find more instances of songs that were used at his shows. Another way of full improvement is to wrap all of this into python, or all into R with Jupyter notebooks being written in R. 
