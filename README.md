@@ -15,7 +15,11 @@ We also checked for multi-collinearity and that showed no signs of such.
 
 We also checked to see if there was a linear relationship shown between the dependent and independent variables. (Still checking)
 
+As for our logistic regression, we arrive at the following for our summary:
 
+![image](https://user-images.githubusercontent.com/67398409/115179968-27ea3400-a09a-11eb-9efa-d7828ad2ec1f.png)
+
+Not much to write home about with the statistical significance here. Our confusion matrix also just points out to us that there are 199 true positives, 9 false positives, and 1 false negatives. The MLR performed much stronger than this set. 
 
 
 
