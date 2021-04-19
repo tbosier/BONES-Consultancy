@@ -25,7 +25,10 @@ After throwing y_pred values into a spreadsheet to assess what songs were being 
 
 ![image](https://user-images.githubusercontent.com/67398409/115180647-bd39f800-a09b-11eb-9e39-203d7b20aa88.png)
 
+So, after removing duration_ms, we get:
 
+
+![image](https://user-images.githubusercontent.com/67398409/115181286-2e2ddf80-a09d-11eb-969a-c80bcd1dfd5c.png)
 
 
 
