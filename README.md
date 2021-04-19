@@ -21,14 +21,16 @@ As for our logistic regression, we arrive at the following for our summary:
 
 Not much to write home about with the statistical significance here. Our confusion matrix also just points out to us that there are 199 true positives, 9 false positives, and 1 false negatives. The MLR performed much stronger than this set. 
 
+After throwing y_pred values into a spreadsheet to assess what songs were being recommended, it seems that the algorithm is choosing the longest songs, so this needs to be removed from our model and re-trained.
+
+![image](https://user-images.githubusercontent.com/67398409/115180647-bd39f800-a09b-11eb-9e39-203d7b20aa88.png)
 
 
 
 
 
 
-
-The ways that I would improve these models would be to find more instances of songs that were used at his shows. Another way of full improvement is to wrap all of this into python. 
+The ways that I would improve these models would be to find more instances of songs that were used at his shows. Another way of full improvement is to wrap all of this into python, or all into R with Jupyter notebooks being written in R. 
 
 
 
