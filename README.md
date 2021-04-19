@@ -28,7 +28,7 @@ After throwing y_pred values into a spreadsheet to assess what songs were being 
 So, after removing duration_ms and time_signature we get:
 
 
-![image](https://user-images.githubusercontent.com/67398409/115181972-b5c81e00-a09e-11eb-8aee-4dd1524f8c03.png)
+![image](https://user-images.githubusercontent.com/67398409/115182537-c200ab00-a09f-11eb-9867-90fc8ec94bde.png)
 
 
 
