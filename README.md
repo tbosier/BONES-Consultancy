@@ -30,6 +30,8 @@ So, after removing duration_ms, we get:
 
 ![image](https://user-images.githubusercontent.com/67398409/115181286-2e2ddf80-a09d-11eb-969a-c80bcd1dfd5c.png)
 
+This tells us that danceability is extremely correlated. 
+
 
 
 
