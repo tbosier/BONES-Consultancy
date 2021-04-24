@@ -1,7 +1,7 @@
 # BONES Consultancy: Project Overview
 * Act as a consultant for a musician with an extensive album collection to choose additional songs for upcoming shows
 * Pull data from Spotify's API and get a sense of the data
-* Employ two models: Multi-Linear Regression and Logistic Regression to get a sense of the data and work through errors that might occur for further prediction
+* Employ two models: Multi-Linear Regression and Logistic Regression to see what is possible and work through errors that might occur for further prediction
 * Place favorites of the selected into a playlist
 
 ## Spotify API scrape and Youtube data collection
@@ -22,7 +22,7 @@ Found a way to pull data about songs out of Spotify. The variables that we work 
 * duration
 * time_signature
 
-From there, I went to youtube and found shows that BONES performed at and included another column with binary values that state whether or not a song was played at his shows. I pulled in about 2 sets worth, so future iterations would benefit from finding more songs.
+From there, I went to youtube and found shows that BONES performed at and included another column with binary values that state whether or not a song was played at his shows. I pulled in about 2 sets worth, so future iterations would benefit from finding more songs. Binary dependent variables typically benefit from models like Logistic Regression; future analysis might benefit from Random Forest, Neural Networks.
 
 ## Multi-Linear Regression
 
