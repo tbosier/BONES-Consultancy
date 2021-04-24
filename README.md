@@ -41,7 +41,7 @@ There isn't much statistical significance in the variables besides danceability,
 
 ## Logistic Regression
 
-# Model analysis
+### Model analysis
 
 ![image](https://user-images.githubusercontent.com/67398409/115179968-27ea3400-a09a-11eb-9efa-d7828ad2ec1f.png)
 
@@ -51,7 +51,12 @@ After throwing y_pred values into a spreadsheet to assess what songs were being 
 
 ![image](https://user-images.githubusercontent.com/67398409/115180647-bd39f800-a09b-11eb-9e39-203d7b20aa88.png)
 
-So, after removing duration_ms and time_signature we get:
+
+## Redo
+
+### Multiple Linear Regression
+
+After removing duration_ms and time_signature we get:
 
 
 ![image](https://user-images.githubusercontent.com/67398409/115182537-c200ab00-a09f-11eb-9867-90fc8ec94bde.png)
@@ -63,6 +68,7 @@ With these being the particular songs our better performing algorithm is recomme
 
 ![image](https://user-images.githubusercontent.com/67398409/115182190-2c651b80-a09f-11eb-94d7-bceb53b9b0b6.png)
 
+## Final thoughts
 
 This analysis isn't complete without listening to the songs ourselves. 73rdAnnualGimbleTelathon is a misnomer it seems, but the top 10 are solid songs to include in the next show. They achieve either the hype, or the low atmospheric beat that we were searching for. 
 
