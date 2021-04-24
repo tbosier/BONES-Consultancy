@@ -26,13 +26,13 @@ From there, I went to youtube and found shows that BONES performed at and includ
 
 ## Multi-Linear Regression
 
-# Assumptions Check
+### Assumptions Check
 
 * Normal Distribution: Used Shapiro-Wilks, energy is the only normally distributed value
 * Multi-Collinearity: No signs using car::vif functionality
 * We will run through the model for verification of linear relationship
 
-# Model analysis
+### Model analysis
 
 ![image](https://user-images.githubusercontent.com/67398409/115159262-eafd4d80-a057-11eb-83c3-e620fb159a52.png)
 
