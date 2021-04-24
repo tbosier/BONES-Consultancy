@@ -39,8 +39,9 @@ From there, I went to youtube and found shows that BONES performed at and includ
 There isn't much statistical significance in the variables besides danceability, which is highly significant.
 
 
+## Logistic Regression
 
-As for our logistic regression, we arrive at the following for our summary:
+# Model analysis
 
 ![image](https://user-images.githubusercontent.com/67398409/115179968-27ea3400-a09a-11eb-9efa-d7828ad2ec1f.png)
 
