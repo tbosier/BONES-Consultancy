@@ -26,16 +26,19 @@ From there, I went to youtube and found shows that BONES performed at and includ
 
 ## Multi-Linear Regression
 
+# Assumptions Check
+
+* Normal Distribution: Used Shapiro-Wilks, energy is the only normally distributed value
+* Multi-Collinearity: No signs using car::vif functionality
+* We will run through the model for verification of linear relationship
+
+# Model analysis
 
 ![image](https://user-images.githubusercontent.com/67398409/115159262-eafd4d80-a057-11eb-83c3-e620fb159a52.png)
 
 There isn't much statistical significance in the variables besides danceability, which is highly significant.
 
-We employed Shapiro-Wilks normality test to see if any of the variables show signs of a normal distribution for their errors, and only energy seems to. Re-training on just energy for a 1 variable linear regression doesn't show much significance.  
 
-We also checked for multi-collinearity and that showed no signs of such.
-
-We also checked to see if there was a linear relationship shown between the dependent and independent variables. (Still checking)
 
 As for our logistic regression, we arrive at the following for our summary:
 
