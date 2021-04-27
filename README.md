@@ -22,7 +22,7 @@ Found a way to pull data about songs out of Spotify. The variables that we work 
 * duration
 * time_signature
 
-From there, I went to youtube and found shows that BONES performed at and included another column with binary values that state whether or not a song was played at his shows. I pulled in about 2 sets worth, so future iterations would benefit from finding more songs. Binary dependent variables typically benefit from models like Logistic Regression; future analysis might benefit from Random Forest, Neural Networks.
+From there, I went to youtube and found shows that BONES performed at and included another column with binary values that state whether or not a song was played at his shows. I pulled in about 2 sets worth, so future iterations would benefit from finding more songs. Binary dependent variables typically benefit from models like Logistic Regression; future analysis might benefit from Random Forest, Neural Networks. For future ideas, it would be good to pull in the number of times each of his songs have been listened to and suggest based off of that. 
 
 ## Multi-Linear Regression
 
