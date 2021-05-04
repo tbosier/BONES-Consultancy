@@ -79,10 +79,10 @@ I put my favorite of the list in a spotify playlist if you're interested in chec
 
 https://open.spotify.com/playlist/2r2LhItZvq0wfd1wIxkLOd?si=17e2e3205bcc4651
 
-### To do
-# See if data exists to pull in number of listens for all Bones songs, match from our prior analysis to these.
-# Make a tableau dashboard for easy visualizations 
-# Redo the entire project using git commands
+## To do
+* See if data exists to pull in number of listens for all Bones songs, match from our prior analysis to these.
+* Make a tableau dashboard for easy visualizations 
+* Redo the entire project using git commands
 
 
 
