@@ -75,6 +75,8 @@ This analysis isn't complete without listening to the songs ourselves. 73rdAnnua
 
 The ways that I would improve these models would be to find more instances of songs that were used at his shows. Another way of full improvement is to wrap all of this into python, or all into R with Jupyter notebooks being written in R. 
 
+In reality, I wouldn't choose this at all. The simple solution would be to investigate on twitter with polls, go to his shows and poll there, and to look at Spotify & SoundCloud data with the amount of plays. Additionally, it's up to the artist himself what songs he wishes to choose. Machine Learning is not a catch all for everything and doesn't need to be applied to every business case. 
+
 I put my favorite of the list in a spotify playlist if you're interested in checking them out. Pretty good if you need to zone in!
 
 https://open.spotify.com/playlist/2r2LhItZvq0wfd1wIxkLOd?si=17e2e3205bcc4651
