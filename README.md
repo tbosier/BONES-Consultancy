@@ -3,6 +3,7 @@
 * Pull data from Spotify's API and get a sense of the data
 * Employ two models: Multi-Linear Regression and Logistic Regression to see what is possible and work through errors that might occur for further prediction
 * Place favorites of the selected into a playlist
+* Final thoughts listed below. ML modeling not applicable here, just curious what would come up.
 
 ## Spotify API scrape and Youtube data collection
 
